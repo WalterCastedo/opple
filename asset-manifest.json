@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/opple/static/css/main.34beb50d.css",
-    "main.js": "/opple/static/js/main.eb7b2c34.js",
-    "static/js/498.db2d3801.chunk.js": "/opple/static/js/498.db2d3801.chunk.js",
-    "static/js/703.1aa856e0.chunk.js": "/opple/static/js/703.1aa856e0.chunk.js",
-    "static/js/541.a2885cea.chunk.js": "/opple/static/js/541.a2885cea.chunk.js",
-    "static/js/787.bde37421.chunk.js": "/opple/static/js/787.bde37421.chunk.js",
-    "static/media/logo2.png": "/opple/static/media/logo2.19ed6452633b605f77ee.png",
-    "index.html": "/opple/index.html",
-    "main.34beb50d.css.map": "/opple/static/css/main.34beb50d.css.map",
-    "main.eb7b2c34.js.map": "/opple/static/js/main.eb7b2c34.js.map",
-    "498.db2d3801.chunk.js.map": "/opple/static/js/498.db2d3801.chunk.js.map",
-    "703.1aa856e0.chunk.js.map": "/opple/static/js/703.1aa856e0.chunk.js.map",
-    "541.a2885cea.chunk.js.map": "/opple/static/js/541.a2885cea.chunk.js.map",
-    "787.bde37421.chunk.js.map": "/opple/static/js/787.bde37421.chunk.js.map"
+    "main.css": "/static/css/main.45ee7f2b.css",
+    "main.js": "/static/js/main.4097f26e.js",
+    "static/js/498.db2d3801.chunk.js": "/static/js/498.db2d3801.chunk.js",
+    "static/js/703.1aa856e0.chunk.js": "/static/js/703.1aa856e0.chunk.js",
+    "static/js/541.70b5998b.chunk.js": "/static/js/541.70b5998b.chunk.js",
+    "static/js/787.bde37421.chunk.js": "/static/js/787.bde37421.chunk.js",
+    "static/media/logo2.png": "/static/media/logo2.19ed6452633b605f77ee.png",
+    "index.html": "/index.html",
+    "main.45ee7f2b.css.map": "/static/css/main.45ee7f2b.css.map",
+    "main.4097f26e.js.map": "/static/js/main.4097f26e.js.map",
+    "498.db2d3801.chunk.js.map": "/static/js/498.db2d3801.chunk.js.map",
+    "703.1aa856e0.chunk.js.map": "/static/js/703.1aa856e0.chunk.js.map",
+    "541.70b5998b.chunk.js.map": "/static/js/541.70b5998b.chunk.js.map",
+    "787.bde37421.chunk.js.map": "/static/js/787.bde37421.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34beb50d.css",
-    "static/js/main.eb7b2c34.js"
+    "static/css/main.45ee7f2b.css",
+    "static/js/main.4097f26e.js"
   ]
 }
